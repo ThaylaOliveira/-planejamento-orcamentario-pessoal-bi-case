@@ -37,8 +37,8 @@ Simular o planejamento orçamentário anual de pessoal da empresa com base em da
   - Custo médio mensal por servidor
 
 ---
-
-## 📸 [Acesso ao Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWI0MjkwYjItNzUzMC00MWM4LWJmYjAtYmRiYWQ2NDljY2I0IiwidCI6IjcxNTU4ZjkxLWU4ZDAtNDcyYS1hM2Q2LTljOWQ2Y2RkZDU1YSJ9)
+### [Link Apresentação Slide](https://1drv.ms/p/c/57f9f846065ef253/Eeeo2CcdEoVJjLwQa0eGZjEBgYbWCg3fhBluVvLPGakklg?e=bfKEAr)
+### [Link do Dashboard Aqui](https://app.powerbi.com/view?r=eyJrIjoiOWI0MjkwYjItNzUzMC00MWM4LWJmYjAtYmRiYWQ2NDljY2I0IiwidCI6IjcxNTU4ZjkxLWU4ZDAtNDcyYS1hM2Q2LTljOWQ2Y2RkZDU1YSJ9)
 
 <h3>Visão Geral</h3>
 <img src="Dashboard/Dash-visao-geral.png" alt="Dashboard Geral" width="600"/>
