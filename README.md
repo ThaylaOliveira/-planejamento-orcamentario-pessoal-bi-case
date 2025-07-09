@@ -1,4 +1,4 @@
-# 📊 Planejamento Orçamentário de Pessoal – Desafio Técnico BI | Revvo
+# 📊 Planejamento Orçamentário de Pessoal – Desafio Técnico BI
 
 Este repositório contém a solução desenvolvida para o desafio técnico da vaga de **Analista de BI**, com foco em planejamento orçamentário de pessoal, análise de custos e criação de dashboard analítico.
 
@@ -38,12 +38,13 @@ Simular o planejamento orçamentário anual de pessoal da empresa com base em da
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📸 [Acesso ao Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWI0MjkwYjItNzUzMC00MWM4LWJmYjAtYmRiYWQ2NDljY2I0IiwidCI6IjcxNTU4ZjkxLWU4ZDAtNDcyYS1hM2Q2LTljOWQ2Y2RkZDU1YSJ9)
 
-├── 📊 Dashboard
-├── 📈 Apresentacao_Slides.ppt
-├── 📁 Base_Dados_Tratada.xlsx
-├── README.md
+<h3>Visão Geral</h3>
+<img src="Dashboard/Dash-visao-geral.png" alt="Dashboard Geral" width="600"/>
+
+<h3>Análises Específicas</h3>
+<img src="Dashboard/Dash-analises-especificas.png" alt="Dashboard Dark Mode" width="600"/>
 
 ---
 
