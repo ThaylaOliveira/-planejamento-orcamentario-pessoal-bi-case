@@ -1,6 +1,6 @@
 # 📊 Planejamento Orçamentário de Pessoal – Desafio Técnico BI
 
-Este repositório contém a solução desenvolvida para o desafio técnico da vaga de **Analista de BI**, com foco em planejamento orçamentário de pessoal, análise de custos e criação de dashboard analítico.
+Este repositório contém a solução desenvolvida para o desafio técnico com foco em planejamento orçamentário de pessoal, análise de custos e criação de dashboard analítico.
 
 ## 🎯 Objetivo do Desafio
 
